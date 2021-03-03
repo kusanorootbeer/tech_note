@@ -7,3 +7,6 @@ python make_md.py src/note.ipynb
 ```
 
 ただし画像はちまちま貼るしかない．
+
+`src/readme.md`
+に technical note の index を表示．
